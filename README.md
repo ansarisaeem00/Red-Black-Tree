@@ -32,16 +32,75 @@ Searching - O(logn)
 
 Results:
 Insertion:
+
+
+
+
 ![Insertion in RBT](https://github.com/ansarisaeem00/Red-Black-Tree/blob/master/1.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 ![Insertion in RBT](https://github.com/ansarisaeem00/Red-Black-Tree/blob/master/2.png)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 Deletion:
+
+
+
+
+
+
+
+
 ![Deletion in RBT](4.png)
 
 
+
+
+
+
+
+
+
 Search:
+
+
+
+
 ![Serching in RBT](5.png)
+
+
+
+
 
 
 Conclusion:
